@@ -1,0 +1,14 @@
+Comando pull -> efetua download da versão atualizada dos arquivos
+Comando push -> publica alterações de arquivos
+git remote add nomedoarquivo http://urldestino
+
+Sintaxe Download(pull):
+git pull origin master
+
+Sintaxe Publicação/envio (push)
+git push origin master
+
+Arquivo de configuração do Spring
+/src/main/webapp/WEB-INF/spring-context.xml
+
+
